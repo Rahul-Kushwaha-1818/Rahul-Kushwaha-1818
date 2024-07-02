@@ -1,4 +1,3 @@
-Based on the information in your resume, here is a README for your GitHub profile:
 
 ---
 
