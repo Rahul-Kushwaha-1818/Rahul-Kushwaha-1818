@@ -34,7 +34,7 @@ I am an enthusiastic and skilled engineering fresher eager to leverage my techni
   - HTML, CSS, JavaScript, React
 
 - **Libraries and Frameworks:**
-  - Node.JS, NumPy, Pandas, Regex, Beautiful Soup, Express.JS
+  - Node.JS, NumPy, Pandas, Regex, Express.JS
 
 - **Tools:**
   - MS Office (Word, PowerPoint, Excel)
@@ -43,9 +43,13 @@ I am an enthusiastic and skilled engineering fresher eager to leverage my techni
 
 ### 🏢 Experience
 
+- **Starlabs Technologies Pvt. Ltd.**
+  - *Frontend Developer Intern* (Jun 2024 - Sep 2024)
+  - I worked as a front-end developer intern, gaining proficiency in React.js, JavaScript and Node.js.
+
 - **Munjal Kiriu Pvt Ltd**
-  - *IT Department Intern* (Aug 2023 - Sep 2023)
-  - Worked in the IT Department, gaining proficiency in FastAPI, MongoDB, and JavaScript.
+  - *Website Developer Intern* (Apr 2024 - Jun 2024)
+  - Worked as a Website Developer Intern, gaining proficiency in HTML, CSS, React.js, JavaScript, MongoDB, and Node.js.
 
 - **B.S.E.S Yamuna Power Ltd**
   - *Database Management Intern* (Jul 2023 - Jul 2023)
