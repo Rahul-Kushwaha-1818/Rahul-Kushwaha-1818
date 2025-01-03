@@ -44,7 +44,7 @@ I am an enthusiastic and skilled engineering fresher eager to leverage my techni
 ### 🏢 Experience
 
 - **Starlabs Technologies Pvt. Ltd.**
-  - *Frontend Developer Intern* (Jun 2024 - Sep 2024)
+  - *Frontend Developer Intern* (Jun 2024 - Present)
   - I worked as a front-end developer intern, gaining proficiency in React.js, JavaScript and Node.js.
 
 - **Munjal Kiriu Pvt Ltd**
