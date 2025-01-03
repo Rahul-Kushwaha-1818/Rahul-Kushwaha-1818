@@ -23,7 +23,6 @@ I am an enthusiastic and skilled engineering fresher eager to leverage my techni
 
 - **Programming Languages:**
   - Python
-  - Java
 
 - **Database Management:**
   - Oracle
