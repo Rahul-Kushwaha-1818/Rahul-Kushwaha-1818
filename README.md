@@ -52,11 +52,11 @@ I am an enthusiastic and skilled engineering fresher eager to leverage my techni
 
 - **B.S.E.S Yamuna Power Ltd**
   - *Database Management Intern* (Jul 2023 - Jul 2023)
-  - Worked with Python, Excel, SQL, and Oracle to improve data quality and efficiency.
+  - Worked with Python, Excel, SQL, and Oracle to improve data quality and efficiency. 
 
 - **Octanet**
   - *Web Development Intern* (Jul 2023 - Aug 2023)
-  - Worked on three projects using HTML, CSS, JavaScript, and Bootstrap.
+  - Worked on three projects using HTML, CSS, JavaScript, and Bootstrap. 
 
 ---
 
