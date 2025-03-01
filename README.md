@@ -23,20 +23,49 @@ I am an enthusiastic and skilled engineering fresher eager to leverage my techni
 
 - **Programming Languages:**
   - Python
+  - JavaScript
 
 - **Database Management:**
-  - Oracle
+  - PostgreSQL
   - MongoDB
   - MySQL
 
 - **Frontend Development:**
-  - HTML, CSS, JavaScript, React
+  - HTML
+  - React.js + Vite
+  - Ejs
+  - tailwindCss
+    
+- **Backend Development:**
+  - Node.JS
+  - Express.JS
+ 
+- **Libraries:**
+  - NumPy
+  - Pandas
+  - Regex
+  - Leaflet
+  - Motion
+  - redux
 
-- **Libraries and Frameworks:**
-  - Node.JS, NumPy, Pandas, Regex, Express.JS
+- **Cloud Platform:**
+  - Firebase
+    
+- **DevOps:**
+  - Docker
+  - GitHub
+  - GitHub Actions
 
+- **Low code:**
+  - WordPress
+    
 - **Tools:**
   - MS Office (Word, PowerPoint, Excel)
+  - Figma
+  - Postman
+  - Slack
+  - Microservices
+  - Agile
 
 ---
 
@@ -60,19 +89,40 @@ I am an enthusiastic and skilled engineering fresher eager to leverage my techni
 
 ---
 
-### 🎓 Education
+## 🏆 **Experience**  
 
-- **Krishna Engineering College**
-  - *Bachelor of Technology in Computer Science and Engineering* (Aug 2020 - Jul 2024)
-  - CGPA: 73.3%
+### **Software Developer, Starlabs Technologies (Remote, Dhanbad)**  
+📅 **July 2024 - Present**  
 
-- **Gandhi Memorial Sarvodaya Bal Vidyalaya**
-  - *Intermediate School* (Apr 2019 - May 2020)
-  - Percentage: 76.6%
+- Developed a **CRM Frontend** using **React.js**, integrating **sales forecasting, sentiment analysis, and automated data entry** to enhance operational efficiency.  
+- Integrated **Google Calendar API** and **Wati (WhatsApp API)** to automate scheduling, reminders, and customer engagement, improving efficiency by **25%**.  
+- Built software to **interface with hardware**, enabling real-time data extraction and processing.  
+- Developed a software solution for **Jammer and Radar systems**, displaying **drone detections** on the UI and allowing direct control of **Jammer and Radar**.  
 
-- **Gandhi Memorial Sarvodaya Bal Vidyalaya**
-  - *High School* (Apr 2017 - May 2018)
-  - Percentage: 72.4%
+🛠 **Tech Stack:** React.js, Vite, Node.js, Express.js, JavaScript, EJS, PostgreSQL, MySQL, Tortoise ORM, JWT, WebSocket, Motion, Tailwind CSS, Leaflet, Redux, Toastify, Gemini API, GitHub Actions, Docker.  
+
+---  
+
+### **Internships**  
+
+#### **Website Developer Intern, Mutagen Infosolutions (Noida)**  
+📅 **April 2024 - June 2024**  
+
+- Designed and developed **responsive websites** for multiple companies, focusing on **performance optimization and user experience**.  
+- Built and customized **3 WordPress websites**, integrating themes, plugins, and custom functionalities.  
+- Implemented a **React-based chatbot** to automate responses and enhance customer interaction.  
+
+🛠 **Tech Stack:** React.js, JavaScript, Node.js, Express.js, MySQL, HTML, CSS, Tailwind CSS, Bootstrap, WordPress, GitHub Actions, OpenAI API, Gemini API.  
+
+---  
+
+#### **Data Analyst Intern, B.S.E.S Yamuna Power Pvt. Ltd. (Delhi)**  
+📅 **July 2023 - August 2023**  
+
+- Improved **data accuracy and consistency** using **Python (NumPy, Pandas, Regex)** for efficient data cleaning and preprocessing.  
+- Extracted, analyzed, and optimized datasets from **SQL and Oracle databases**, enabling data-driven decision-making.  
+
+🛠 **Tech Stack:** Python, NumPy, Pandas, Regex, Oracle, SQL, Excel, GitHub Actions.  
 
 ---
 
